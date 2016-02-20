@@ -1,0 +1,747 @@
+commit bc7931e9113bfa1114310b3efc2f1eae36532662
+Author: logesh.govindarajulu@student.fh-kiel.de <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Tue Jan 19 00:29:57 2016 +0100
+
+    changed sendFile to sendfile yet to fix mongoose schema
+
+commit b73f770bddf7951aeb3d8e26fc0f554a09bad190
+Author: logesh.govindarajulu@student.fh-kiel.de <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Mon Jan 18 23:43:08 2016 +0100
+
+    a few corrections
+
+commit 4ef93f75043b4c8e3387af3cdc43f1501ab8254f
+Author: logesh.govindarajulu@student.fh-kiel.de <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Mon Jan 18 22:10:33 2016 +0100
+
+    Hard push 2
+
+commit d19cb44927156d4d1e84656e463d065d2bc85a9b
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Thu Dec 31 20:39:03 2015 +0100
+
+    undo and redo implemented
+
+commit 5aa0179aa6d09f213d600e85c96ac0a48711e409
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Mon Dec 28 11:54:56 2015 +0100
+
+    save and retrieve objects
+
+commit ab7606ebad514f83f9b33e4d46a1711e27cb8aa2
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Dec 6 19:29:34 2015 +0100
+
+    bug fix
+
+commit ca66b02efe3fd899215a718282db6f1141e5d750
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Thu Nov 26 22:53:17 2015 +0100
+
+    canvas issue fix
+
+commit b2726f5ae0fd994023a8b6b6f69794295f52b854
+Merge: 40259c6 5d95bbd
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Thu Nov 26 21:51:51 2015 +0100
+
+    Merge branch 'feature_UI_Logesh' of https://gitlab.iue.fh-kiel.de/pm102/project-3-cloud-cad into feature_UI
+
+commit 40259c6da74e24556881d6d6ab6169992e17edc9
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Thu Nov 26 21:50:45 2015 +0100
+
+    zoom multiplier issue fix
+
+commit 5d95bbd82caf3070b071fd4c791fd9b290e0c674
+Author: logesh.govindarajulu <logesh.govindarajulu@gmail.com>
+Date:   Thu Nov 26 21:45:01 2015 +0100
+
+    added icons for geometric shapes
+
+commit 546e6056e0c265a4ffc011fb27ea4b7482535fcb
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 21:57:30 2015 +0100
+
+    deleted unwanted css file
+
+commit c35bbe9dbb63e822ca142e177351174499e91fd1
+Merge: 5a2382c 3491703
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 21:51:22 2015 +0100
+
+    merge master with branch
+
+commit 5a2382ce2fdf1ec03b39daa1b31131529930275c
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 21:43:55 2015 +0100
+
+    select object issue fixed
+
+commit 1ac8e5a8b3a6e4bca24ce67af1e836f992c95de4
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 13:41:52 2015 +0100
+
+    added some scripts to index
+
+commit 2da0627551b409f777d063f7aef484eb0efc6466
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 12:21:39 2015 +0100
+
+    dirctory structure changed
+
+commit 3faf19d70bb5817e18f1caff29164b3cac436559
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 12:19:36 2015 +0100
+
+    changed directory structure
+
+commit bc2f48783eb25a27d530fc6e05ba6067cde58f6d
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 12:18:01 2015 +0100
+
+    merged feature_UI_logesh
+
+commit 3491703296be553bd0ffb716d993b74227dd726f
+Merge: 6ed9d1d 75c95e6
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 11:20:11 2015 +0100
+
+    Merge branch 'feature_UI_Logesh'
+
+commit 6ed9d1db0457709768395f1e4cbd64ad9b6409b8
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Mon Nov 23 14:00:25 2015 +0100
+
+    color export/import done
+
+commit bfa8cf7a489ce5ad6ed905abf16e2c994a6b81f6
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 22 20:01:18 2015 +0100
+
+    defined contol oject
+
+commit a0be9ae9ad8c6b0b0bf0d06a6e18a668ba09eb76
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 22 18:38:20 2015 +0100
+
+    object export/import implemented
+
+commit a5eb7e2f0009eabfa1265ffa7f1d760360663328
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Mon Nov 16 13:48:09 2015 +0100
+
+    axis bugs fixed
+
+commit 5e971ce853ff7d2f3c70d81ce14a5a2c7c774c6c
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 15 12:08:12 2015 +0100
+
+    orthographic camera added
+
+commit 75c95e68300ece7e3ce5b2865941d273c5cfc4b8
+Author: logesh.govindarajulu <logesh.govindarajulu@gmail.com>
+Date:   Wed Nov 11 00:02:28 2015 +0100
+
+    Angular modules for Shape Menu and Canvas Made - Bower Package Manager Added - Grunt Scaffolding to be done - Kudos
+
+commit 436e3e48f51aabf0539dfb4dd328c978add19e26
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 8 13:06:06 2015 +0100
+
+    creating sphere in edges during edit
+
+commit d8fa67f37168ed2a9288b398cb22f7b2dc353d9a
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sat Nov 7 22:03:39 2015 +0100
+
+    wireframe mode added
+
+commit ad9db3c84986e34c6740d282d6f23bbc59262d94
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Fri Nov 6 19:16:24 2015 +0100
+
+    Express js server implemented
+
+commit 9814988ad680c397c7e2c415e82265e14db9f44d
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Wed Nov 4 16:02:14 2015 +0100
+
+    removed unwanted script
+
+commit e54d1d18df1fc4ede41012beb0d967189b91a8c0
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Wed Nov 4 15:57:41 2015 +0100
+
+    delete objects implemented
+
+commit 050f3012dde1b794e39ae696a4db245531fa0cde
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 3 22:10:30 2015 +0100
+
+    rotation of objects implemented
+
+commit 1f06cd5b8b62121efed7b6c6a127cb760b7c7f68
+Author: induarun9086 <indu9086@gmail.com>
+Date:   Tue Nov 3 21:39:30 2015 +0100
+
+    1.duplication of objects 2. more shapes added
+
+commit 2dd1aa8e7008f65b9532776795706e89b850e349
+Author: induarun9086 <indu9086@gmail.com>
+Date:   Sun Nov 1 22:13:15 2015 +0100
+
+    grab,scaling of 3d models done
+
+commit d11c2a6d6a31b158c707132a3333a41e6ee92491
+Author: logesh.govindarajulu <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Fri Oct 23 00:15:32 2015 +0200
+
+    Layout first edit
+
+commit b7104e6a832364ce2fe8317c6ac9a3d98e272447
+Merge: 745dc91 a8ec2c3
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:45:53 2015 +0200
+
+    Merge branch 'ft_UI_1' into feature_UI
+
+commit 745dc9187d064bf9be45162c6325970f0319e071
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:37:19 2015 +0200
+
+    removed IDE files
+
+commit 969896b063a3fea9cd1a43dda35e2dbc89df48d7
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:33:55 2015 +0200
+
+    Initial version
+
+commit bc1b7fe512785bbffe11ca613d8f9e5b41ceef32
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:31:17 2015 +0200
+
+    Removed all third party dependencies
+
+commit dd5d5b51402c5d4ccd2fc940cbcd72e01eab564d
+Author: Indumathi <indu9086@gmail.com>
+Date:   Fri Oct 16 21:06:08 2015 +0200
+
+    index.html
+
+commit a8ec2c3528796906f8d51120989ce4383d7a7103
+Author: logesh.govindarajulu <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Wed Oct 14 20:54:50 2015 +0200
+
+    webstorm ignore file
+
+commit 5670c228681af038bb73860529d730d189ed8c96
+Author: Indumathi <indu9086@gmail.com>
+Date:   Tue Oct 13 13:40:00 2015 +0200
+
+    Three js source added
+
+commit d0cdd769ee7473da4addd2a0206112d44acbde1c
+Author: logesh.govindarajulu <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Thu Oct 8 15:57:26 2015 +0200
+
+    first commit
+commit 12d9e41d1080db6b660cab21db188472046d076b
+Author: logesh.govindarajulu@student.fh-kiel.de <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Fri Jan 1 21:17:26 2016 +0100
+
+    Login and Main page display basic setup
+
+commit 18a99bb44cf940accc3cc8f05ecc48ea2e078b98
+Merge: 585539a 3760e1d
+Author: logesh.govindarajulu@student.fh-kiel.de <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Fri Jan 1 21:09:37 2016 +0100
+
+    Unnecessary but necessary Merge Merge branch 'feature_cloudcad_razak' of https://gitlab.iue.fh-kiel.de/pm102/project-3-cloud-cad into feature_cloudcad_razak
+
+commit 585539ac6cc06c312cdde82f504297cdd4b286d4
+Author: logesh.govindarajulu@student.fh-kiel.de <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Fri Jan 1 21:01:39 2016 +0100
+
+    Fixed Jade to render Login Page and Main page
+
+commit 3760e1d65cb070f17abc1f9dced6fe1ffcfdf101
+Author: ramakrishnareddy <ramakrishna.r.janga@student.fh-kiel.de>
+Date:   Mon Dec 28 20:06:12 2015 +0100
+
+    Add all files
+
+commit ed4ba37fa854d02a163c6a6ce8b13c6f344f1c63
+Author: logesh.govindarajulu@student.fh-kiel.de <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Mon Dec 28 15:58:15 2015 +0100
+
+    commit no 1 28122015
+
+commit 76805db0e3eee247ef9ccbeb663694713c9fb73b
+Author: ramakrishnareddy <ramakrishna.r.janga@student.fh-kiel.de>
+Date:   Mon Dec 14 13:54:25 2015 +0100
+
+    effort 4
+
+commit aafa8e905bda5df20f2e106e4f80d3e62f4697ef
+Author: ramakrishnareddy <ramakrishna.r.janga@student.fh-kiel.de>
+Date:   Mon Dec 14 13:49:19 2015 +0100
+
+    effort 3
+
+commit d4671d9ecea93a3ba1cb094c5d2931ea8e2bfdee
+Author: ramakrishnareddy <ramakrishna.r.janga@student.fh-kiel.de>
+Date:   Mon Dec 14 13:42:48 2015 +0100
+
+    server mgmt effor 2
+
+commit e9aa764707f196e532d4621fc94348c7245d01ef
+Author: ramakrishnareddy <ramakrishna.r.janga@student.fh-kiel.de>
+Date:   Mon Dec 14 13:12:54 2015 +0100
+
+    trying to host in server effort 1
+
+commit 8cd0ca5ec345b9769b24388677d8e04cd6d81721
+Author: logesh.govindarajulu@student.fh-kiel.de <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Sun Dec 13 20:58:13 2015 +0100
+
+    Cleaned dirty headache giving login and CRUD samples, Adding a registration and login feature -- to be integrated with login page. Salt and hash added-a
+
+commit d77156292d8ce302bcb54742583d098d6ef22232
+Author: logesh.govindarajulu@student.fh-kiel.de <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Sat Dec 12 11:50:21 2015 +0100
+
+    Mongoose CRUD operations code for use in user login
+
+commit 1fc0d624ebea4dfb441b4a2836a4339ac45864c1
+Author: logesh.govindarajulu@student.fh-kiel.de <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Sat Dec 12 10:59:59 2015 +0100
+
+    login page set as the first served page
+
+commit 8915854d3ccf198d1a5f264df88d022512e954c6
+Author: ramakrishnareddy <ramakrishna.r.janga@student.fh-kiel.de>
+Date:   Thu Dec 10 18:50:06 2015 +0100
+
+    Backend Work: Express, passport, mongoose Authors: Logesh, Shaik, Ram
+
+commit 546e6056e0c265a4ffc011fb27ea4b7482535fcb
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 21:57:30 2015 +0100
+
+    deleted unwanted css file
+
+commit c35bbe9dbb63e822ca142e177351174499e91fd1
+Merge: 5a2382c 3491703
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 21:51:22 2015 +0100
+
+    merge master with branch
+
+commit 5a2382ce2fdf1ec03b39daa1b31131529930275c
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 21:43:55 2015 +0100
+
+    select object issue fixed
+
+commit 1ac8e5a8b3a6e4bca24ce67af1e836f992c95de4
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 13:41:52 2015 +0100
+
+    added some scripts to index
+
+commit 2da0627551b409f777d063f7aef484eb0efc6466
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 12:21:39 2015 +0100
+
+    dirctory structure changed
+
+commit 3faf19d70bb5817e18f1caff29164b3cac436559
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 12:19:36 2015 +0100
+
+    changed directory structure
+
+commit bc2f48783eb25a27d530fc6e05ba6067cde58f6d
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 12:18:01 2015 +0100
+
+    merged feature_UI_logesh
+
+commit 3491703296be553bd0ffb716d993b74227dd726f
+Merge: 6ed9d1d 75c95e6
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 11:20:11 2015 +0100
+
+    Merge branch 'feature_UI_Logesh'
+
+commit 6ed9d1db0457709768395f1e4cbd64ad9b6409b8
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Mon Nov 23 14:00:25 2015 +0100
+
+    color export/import done
+
+commit bfa8cf7a489ce5ad6ed905abf16e2c994a6b81f6
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 22 20:01:18 2015 +0100
+
+    defined contol oject
+
+commit a0be9ae9ad8c6b0b0bf0d06a6e18a668ba09eb76
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 22 18:38:20 2015 +0100
+
+    object export/import implemented
+
+commit a5eb7e2f0009eabfa1265ffa7f1d760360663328
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Mon Nov 16 13:48:09 2015 +0100
+
+    axis bugs fixed
+
+commit 5e971ce853ff7d2f3c70d81ce14a5a2c7c774c6c
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 15 12:08:12 2015 +0100
+
+    orthographic camera added
+
+commit 75c95e68300ece7e3ce5b2865941d273c5cfc4b8
+Author: logesh.govindarajulu <logesh.govindarajulu@gmail.com>
+Date:   Wed Nov 11 00:02:28 2015 +0100
+
+    Angular modules for Shape Menu and Canvas Made - Bower Package Manager Added - Grunt Scaffolding to be done - Kudos
+
+commit 436e3e48f51aabf0539dfb4dd328c978add19e26
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 8 13:06:06 2015 +0100
+
+    creating sphere in edges during edit
+
+commit d8fa67f37168ed2a9288b398cb22f7b2dc353d9a
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sat Nov 7 22:03:39 2015 +0100
+
+    wireframe mode added
+
+commit ad9db3c84986e34c6740d282d6f23bbc59262d94
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Fri Nov 6 19:16:24 2015 +0100
+
+    Express js server implemented
+
+commit 9814988ad680c397c7e2c415e82265e14db9f44d
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Wed Nov 4 16:02:14 2015 +0100
+
+    removed unwanted script
+
+commit e54d1d18df1fc4ede41012beb0d967189b91a8c0
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Wed Nov 4 15:57:41 2015 +0100
+
+    delete objects implemented
+
+commit 050f3012dde1b794e39ae696a4db245531fa0cde
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 3 22:10:30 2015 +0100
+
+    rotation of objects implemented
+
+commit 1f06cd5b8b62121efed7b6c6a127cb760b7c7f68
+Author: induarun9086 <indu9086@gmail.com>
+Date:   Tue Nov 3 21:39:30 2015 +0100
+
+    1.duplication of objects 2. more shapes added
+
+commit 2dd1aa8e7008f65b9532776795706e89b850e349
+Author: induarun9086 <indu9086@gmail.com>
+Date:   Sun Nov 1 22:13:15 2015 +0100
+
+    grab,scaling of 3d models done
+
+commit d11c2a6d6a31b158c707132a3333a41e6ee92491
+Author: logesh.govindarajulu <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Fri Oct 23 00:15:32 2015 +0200
+
+    Layout first edit
+
+commit b7104e6a832364ce2fe8317c6ac9a3d98e272447
+Merge: 745dc91 a8ec2c3
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:45:53 2015 +0200
+
+    Merge branch 'ft_UI_1' into feature_UI
+
+commit 745dc9187d064bf9be45162c6325970f0319e071
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:37:19 2015 +0200
+
+    removed IDE files
+
+commit 969896b063a3fea9cd1a43dda35e2dbc89df48d7
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:33:55 2015 +0200
+
+    Initial version
+
+commit bc1b7fe512785bbffe11ca613d8f9e5b41ceef32
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:31:17 2015 +0200
+
+    Removed all third party dependencies
+
+commit dd5d5b51402c5d4ccd2fc940cbcd72e01eab564d
+Author: Indumathi <indu9086@gmail.com>
+Date:   Fri Oct 16 21:06:08 2015 +0200
+
+    index.html
+
+commit a8ec2c3528796906f8d51120989ce4383d7a7103
+Author: logesh.govindarajulu <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Wed Oct 14 20:54:50 2015 +0200
+
+    webstorm ignore file
+
+commit 5670c228681af038bb73860529d730d189ed8c96
+Author: Indumathi <indu9086@gmail.com>
+Date:   Tue Oct 13 13:40:00 2015 +0200
+
+    Three js source added
+
+commit d0cdd769ee7473da4addd2a0206112d44acbde1c
+Author: logesh.govindarajulu <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Thu Oct 8 15:57:26 2015 +0200
+
+    first commit
+commit d19cb44927156d4d1e84656e463d065d2bc85a9b
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Thu Dec 31 20:39:03 2015 +0100
+
+    undo and redo implemented
+
+commit 5aa0179aa6d09f213d600e85c96ac0a48711e409
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Mon Dec 28 11:54:56 2015 +0100
+
+    save and retrieve objects
+
+commit ab7606ebad514f83f9b33e4d46a1711e27cb8aa2
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Dec 6 19:29:34 2015 +0100
+
+    bug fix
+
+commit ca66b02efe3fd899215a718282db6f1141e5d750
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Thu Nov 26 22:53:17 2015 +0100
+
+    canvas issue fix
+
+commit b2726f5ae0fd994023a8b6b6f69794295f52b854
+Merge: 40259c6 5d95bbd
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Thu Nov 26 21:51:51 2015 +0100
+
+    Merge branch 'feature_UI_Logesh' of https://gitlab.iue.fh-kiel.de/pm102/project-3-cloud-cad into feature_UI
+
+commit 40259c6da74e24556881d6d6ab6169992e17edc9
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Thu Nov 26 21:50:45 2015 +0100
+
+    zoom multiplier issue fix
+
+commit 5d95bbd82caf3070b071fd4c791fd9b290e0c674
+Author: logesh.govindarajulu <logesh.govindarajulu@gmail.com>
+Date:   Thu Nov 26 21:45:01 2015 +0100
+
+    added icons for geometric shapes
+
+commit 546e6056e0c265a4ffc011fb27ea4b7482535fcb
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 21:57:30 2015 +0100
+
+    deleted unwanted css file
+
+commit c35bbe9dbb63e822ca142e177351174499e91fd1
+Merge: 5a2382c 3491703
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 21:51:22 2015 +0100
+
+    merge master with branch
+
+commit 5a2382ce2fdf1ec03b39daa1b31131529930275c
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 21:43:55 2015 +0100
+
+    select object issue fixed
+
+commit 1ac8e5a8b3a6e4bca24ce67af1e836f992c95de4
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 13:41:52 2015 +0100
+
+    added some scripts to index
+
+commit 2da0627551b409f777d063f7aef484eb0efc6466
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 12:21:39 2015 +0100
+
+    dirctory structure changed
+
+commit 3faf19d70bb5817e18f1caff29164b3cac436559
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 12:19:36 2015 +0100
+
+    changed directory structure
+
+commit bc2f48783eb25a27d530fc6e05ba6067cde58f6d
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 12:18:01 2015 +0100
+
+    merged feature_UI_logesh
+
+commit 3491703296be553bd0ffb716d993b74227dd726f
+Merge: 6ed9d1d 75c95e6
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 24 11:20:11 2015 +0100
+
+    Merge branch 'feature_UI_Logesh'
+
+commit 6ed9d1db0457709768395f1e4cbd64ad9b6409b8
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Mon Nov 23 14:00:25 2015 +0100
+
+    color export/import done
+
+commit bfa8cf7a489ce5ad6ed905abf16e2c994a6b81f6
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 22 20:01:18 2015 +0100
+
+    defined contol oject
+
+commit a0be9ae9ad8c6b0b0bf0d06a6e18a668ba09eb76
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 22 18:38:20 2015 +0100
+
+    object export/import implemented
+
+commit a5eb7e2f0009eabfa1265ffa7f1d760360663328
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Mon Nov 16 13:48:09 2015 +0100
+
+    axis bugs fixed
+
+commit 5e971ce853ff7d2f3c70d81ce14a5a2c7c774c6c
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 15 12:08:12 2015 +0100
+
+    orthographic camera added
+
+commit 75c95e68300ece7e3ce5b2865941d273c5cfc4b8
+Author: logesh.govindarajulu <logesh.govindarajulu@gmail.com>
+Date:   Wed Nov 11 00:02:28 2015 +0100
+
+    Angular modules for Shape Menu and Canvas Made - Bower Package Manager Added - Grunt Scaffolding to be done - Kudos
+
+commit 436e3e48f51aabf0539dfb4dd328c978add19e26
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sun Nov 8 13:06:06 2015 +0100
+
+    creating sphere in edges during edit
+
+commit d8fa67f37168ed2a9288b398cb22f7b2dc353d9a
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Sat Nov 7 22:03:39 2015 +0100
+
+    wireframe mode added
+
+commit ad9db3c84986e34c6740d282d6f23bbc59262d94
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Fri Nov 6 19:16:24 2015 +0100
+
+    Express js server implemented
+
+commit 9814988ad680c397c7e2c415e82265e14db9f44d
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Wed Nov 4 16:02:14 2015 +0100
+
+    removed unwanted script
+
+commit e54d1d18df1fc4ede41012beb0d967189b91a8c0
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Wed Nov 4 15:57:41 2015 +0100
+
+    delete objects implemented
+
+commit 050f3012dde1b794e39ae696a4db245531fa0cde
+Author: Indumathi Duraipandian <indumathi.duraipandian@student.fh-kiel.de>
+Date:   Tue Nov 3 22:10:30 2015 +0100
+
+    rotation of objects implemented
+
+commit 1f06cd5b8b62121efed7b6c6a127cb760b7c7f68
+Author: induarun9086 <indu9086@gmail.com>
+Date:   Tue Nov 3 21:39:30 2015 +0100
+
+    1.duplication of objects 2. more shapes added
+
+commit 2dd1aa8e7008f65b9532776795706e89b850e349
+Author: induarun9086 <indu9086@gmail.com>
+Date:   Sun Nov 1 22:13:15 2015 +0100
+
+    grab,scaling of 3d models done
+
+commit d11c2a6d6a31b158c707132a3333a41e6ee92491
+Author: logesh.govindarajulu <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Fri Oct 23 00:15:32 2015 +0200
+
+    Layout first edit
+
+commit b7104e6a832364ce2fe8317c6ac9a3d98e272447
+Merge: 745dc91 a8ec2c3
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:45:53 2015 +0200
+
+    Merge branch 'ft_UI_1' into feature_UI
+
+commit 745dc9187d064bf9be45162c6325970f0319e071
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:37:19 2015 +0200
+
+    removed IDE files
+
+commit 969896b063a3fea9cd1a43dda35e2dbc89df48d7
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:33:55 2015 +0200
+
+    Initial version
+
+commit bc1b7fe512785bbffe11ca613d8f9e5b41ceef32
+Author: Indumathi <indu9086@gmail.com>
+Date:   Sun Oct 18 15:31:17 2015 +0200
+
+    Removed all third party dependencies
+
+commit dd5d5b51402c5d4ccd2fc940cbcd72e01eab564d
+Author: Indumathi <indu9086@gmail.com>
+Date:   Fri Oct 16 21:06:08 2015 +0200
+
+    index.html
+
+commit a8ec2c3528796906f8d51120989ce4383d7a7103
+Author: logesh.govindarajulu <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Wed Oct 14 20:54:50 2015 +0200
+
+    webstorm ignore file
+
+commit 5670c228681af038bb73860529d730d189ed8c96
+Author: Indumathi <indu9086@gmail.com>
+Date:   Tue Oct 13 13:40:00 2015 +0200
+
+    Three js source added
+
+commit d0cdd769ee7473da4addd2a0206112d44acbde1c
+Author: logesh.govindarajulu <logesh.govindarajulu@student.fh-kiel.de>
+Date:   Thu Oct 8 15:57:26 2015 +0200
+
+    first commit

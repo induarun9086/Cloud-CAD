@@ -1,0 +1,36 @@
+body
+{
+    background-color: #555555;
+}
+.full
+{
+    background-color: #555555;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+.fBody
+{
+    background-color: #555555;
+
+}
+
+.slideshow
+{
+    float: left;
+}
+
+.slideshow1
+{
+}
+
+.slideContainer
+{
+    width:100%;
+    height:100%;
+    padding-left: 10%;
+    padding-right: 10%;
+}

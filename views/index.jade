@@ -1,0 +1,23 @@
+html
+  head
+    title= title
+    style(type='text/css').
+      @import url('/app/css/index.css');
+  body
+
+      .header
+        header
+        h2#title1(style='text-align:center;') CLOUD CAD
+        h2#title2(style='text-align:center;') Online 3D Modeling Tool.
+    if (!user)
+      .linkdiv
+        a#login(href="/login") Login
+        br
+        a#register(href="/register") Register
+        include firstpg.jade
+    if (user)
+      p#user #{user.username}
+      a#logout(href="/logout") Logout
+      include main.jade
+
+  script(src='js/bootstrap.min.js')

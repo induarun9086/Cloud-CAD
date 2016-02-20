@@ -1,0 +1,60 @@
+body {
+    background-color: rgba(0, 2, 1, 0.44);
+}
+
+.header
+{
+    position: relative;
+}
+#user
+{
+    text-align: right;
+    text-transform: capitalize;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bold;
+    margin-right: 10%;
+}
+
+#logout{
+    text-align:right;
+    text-transform: capitalize;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bold;
+    margin-right:0%;
+    color: white;
+}
+
+#login{
+    text-align:right;
+    text-transform: capitalize;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bold;
+    margin-right:0%;
+    color: white;
+}
+
+#register{
+    text-align:right;
+    text-transform: capitalize;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bold;
+    margin-right:0%;
+    color: white;
+}
+
+#title1
+{
+ font-weight: bolder;
+ color: white;
+}
+
+#title2
+{
+    font-weight: bolder;
+    color: white;
+}
+

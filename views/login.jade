@@ -8,16 +8,22 @@ html
         script(src='js/bootstrap.min.js')
     
     body
-        .container
-            h1 CLouD CaD Login
-            br
-            .loginform
+            .container
                 form(role='form', action="/login",method="post", style='max-width: 300px; border: 1px')
-                    .form-group
-                        input.form-control(type='text', name="username", placeholder='Enter Username')
-                    .form-group
-                        input.form-control(type='password', name="password", placeholder='Password')
-                    button.btn.btn-default(type='submit') Submit
-                    &nbsp;
-                    a(href='/')
-                    button.btn.btn-primary(type="button") Cancel
+                    fieldset(data-role='controlgroup')
+                        legend login
+                        p
+                            label 
+                            | Name
+                            .control-group
+                                input.form-control(type='text', name="username", placeholder='Enter Username')
+                        p
+                            label 
+                            | Password
+                            .form-group
+                                input.form-control(type='password', name="password", placeholder='Password')
+                                
+                        button.btn.btn-default(type='submit') Submit
+                        &nbsp;
+                        a(href='/')
+                        button.btn.btn-primary(type="button") Cancel

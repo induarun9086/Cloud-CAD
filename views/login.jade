@@ -6,24 +6,64 @@ html
         link(rel='stylesheet', href='app/css/Login.css')
         script(src='http://code.jquery.com/jquery.js')
         script(src='js/bootstrap.min.js')
+        script
+            $(document).ready(function(){
+                $(".nav-tabs a").click(function(){
+                    $(this).tab('show');
+                });
+            /*$('.nav-tabs a').on('shown.bs.tab', function(event){
+                    var x = $(event.target).text();         // active tab
+                    var y = $(event.relatedTarget).text();  // previous tab
+                    $(".act span").text(x);
+                    $(".prev span").text(y);
+                });*/
+            });
     
     body
             .container
-                form(role='form', action="/login",method="post", style='max-width: 300px; border: 1px')
-                    fieldset(data-role='controlgroup')
-                        legend login
-                        p
-                            label 
-                            | Name
-                            .control-group
-                                input.form-control(type='text', name="username", placeholder='Enter Username')
-                        p
-                            label 
-                            | Password
-                            .form-group
-                                input.form-control(type='password', name="password", placeholder='Password')
-                                
-                        button.btn.btn-default(type='submit') Submit
-                        &nbsp;
-                        a(href='/')
-                        button.btn.btn-primary(type="button") Cancel
+                ul.nav.nav-tabs
+                    li.active
+                        a(href="#loginform") Login
+                    li
+                        a(href="#registerform") Register
+                    .tab-content
+                        #login.tab-pane.fade.in.active
+                            #loginform
+                                form(role='form', action="/login",method="post", style='max-width: 300px; border: 1px')
+                                fieldset(data-role='controlgroup')
+                                legend login
+                                    p
+                                        label 
+                                        | Name
+                                        .control-group
+                                        input.form-control(type='text', name="username", placeholder='Enter Username')
+                                    p
+                                        label 
+                                        | Password
+                                        .form-group
+                                        input.form-control(type='password', name="password", placeholder='Password')
+
+                                button.btn.btn-default(type='submit') Submit
+                                &nbsp;
+                                a(href='/')
+                                button.btn.btn-primary(type="button") Cancel
+                        #register.tab-pane.fade.in.active
+                                #registerform
+                                    form(role='form', action="/login",method="post", style='max-width: 300px; border: 1px')
+                                    fieldset(data-role='controlgroup')
+                                    legend register
+                                        p
+                                            label 
+                                            | Name
+                                            .control-group
+                                            input.form-control(type='text', name="username", placeholder='Enter Username')
+                                        p
+                                            label 
+                                            | Password
+                                            .form-group
+                                            input.form-control(type='password', name="password", placeholder='Password')
+
+                                    button.btn.btn-default(type='submit') Submit
+                                    &nbsp;
+                                    a(href='/')
+                                    button.btn.btn-primary(type="button") Cancel
